@@ -1,1 +1,5 @@
 texlive/texlive
+miktex/miktex
+python
+mathworks/matlab
+wolframresearch/wolframengine
