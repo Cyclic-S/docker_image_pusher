@@ -3,4 +3,4 @@ miktex/miktex
 python
 mathworks/matlab
 wolframresearch/wolframengine
-kasmweb/inkscape
+kasmweb/inkscape:1.16.0
